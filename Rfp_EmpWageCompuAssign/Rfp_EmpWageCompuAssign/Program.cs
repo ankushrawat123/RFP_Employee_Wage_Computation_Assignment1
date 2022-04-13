@@ -5,3 +5,4 @@ Console.WriteLine("Welcome to Employee Wage Computation Program ");
 AttendanceUc1.Attendance();
 WageUc2.Wage();
 ParttimeUc3.Wage();
+SwitchWageUc4.EmpWage();
