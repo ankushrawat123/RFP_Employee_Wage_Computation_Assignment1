@@ -12,7 +12,7 @@ namespace Rfp_EmpWageCompuAssign
         {
             Console.WriteLine();
             Console.WriteLine("Uc1 Begin here ***********************************************");
-            Console.WriteLine(); 
+           
             int Is_Full_Time = 1;
             Random obj = new Random();
             int num = obj.Next(0, 2);

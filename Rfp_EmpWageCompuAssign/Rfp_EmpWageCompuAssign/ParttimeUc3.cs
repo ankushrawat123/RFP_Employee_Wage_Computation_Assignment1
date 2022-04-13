@@ -12,7 +12,7 @@ namespace Rfp_EmpWageCompuAssign
         {
             Console.WriteLine();
             Console.WriteLine("Uc3 Begin here ***********************************************");
-            Console.WriteLine();
+           
             int Is_Full_Time = 1;
             int Is_Part_Time = 2;
             int Emp_Rate_Per_Hour = 20;
